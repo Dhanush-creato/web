@@ -1,0 +1,68 @@
+body{
+    width: 350px;
+}
+
+
+
+
+
+.navabar ul{
+    background-color: gray;
+    border-radius: 5px;
+    text-align: center;
+    list-style-type:none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navabar a{
+    color: azure;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-left: 5px;
+    width: auto;
+
+}
+.navabar a:hover{
+    background-color:rgb(109, 68, 68);
+}
+.navabar li{
+    float:left;
+}
+.show{
+    text-align: center;
+    background-image: linear-gradient(red,rgb(175, 232, 52));
+    color: transparent;
+    -webkit-background-clip: text;
+
+}
+.home{
+    text-align: center;
+    font-size: 25px;
+}
+.image{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.image1{
+    
+    margin-top: 25px;
+    width: 350px;
+    font-size: 30px;
+}
+.self{
+    text-align: right;
+    font-weight: bold;
+
+}
+.name{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+
+}
+.name1{
+    margin-left: 20px;
+}
